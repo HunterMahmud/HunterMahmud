@@ -1,4 +1,4 @@
-<h1 align="center">As Aalamu Alaikum 👋, I'm Hasan Al Mahmud</h1>
+<h1 align="center">As Salamu Alaikum 👋, I'm Hasan Al Mahmud</h1>
 <h3 align="center">I am passionate about tackling computer problems and finding innovative solutions.</h3>
 <img align="right" alt="coding" width="400" src= "https://github.com/HunterMahmud/HunterMahmud/blob/main/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huntermahmud&label=Profile%20views&color=0e75b6&style=flat" alt="huntermahmud" /> </p>
