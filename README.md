@@ -14,9 +14,9 @@ This is the ReadMe file generator link: https://rahuldkjain.github.io/gh-profile
 
 <p align="left"> <a href="https://twitter.com/mahmudal29815" target="blank"><img src="https://img.shields.io/twitter/follow/mahmudal29815?logo=twitter&style=for-the-badge" alt="mahmudal29815" /></a> </p>
 -->
-- 🌱 I’m currently learning **HTML, CSS, Bootstrap, JavaScript, Git & GitHub**
+- 🌱 I’m currently learning **ReactJS,  Git & GitHub**
 
-- 💬 Ask me about **C, C++**
+- 💬 Ask me about **C, C++, JavaScript**
 
 - 📫 How to reach me **mahmudthedatahunter@gmail.com**
 
