@@ -14,13 +14,13 @@ This is the ReadMe file generator link: https://rahuldkjain.github.io/gh-profile
 
 <p align="left"> <a href="https://twitter.com/mahmudal29815" target="blank"><img src="https://img.shields.io/twitter/follow/mahmudal29815?logo=twitter&style=for-the-badge" alt="mahmudal29815" /></a> </p>
 -->
-- 🌱 I’m currently learning **ReactJS,  Git & GitHub**
+- 🌱 I’m currently learning **NextJS**
 
-- 💬 Ask me about **C, C++, JavaScript**
+- 💬 Ask me about **C, C++, JavaScript, ReactJS**
 
 - 📫 How to reach me **mahmudthedatahunter@gmail.com**
 
-- 📄 Know about my experiences [MY CV/Resume](https://github.com/HunterMahmud/CV_or_Resume/blob/main/Hasan_Al_Mahmud(online%20copy).pdf)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1zji1Fnlz_1BCzLPx5PEl7QzhIiq_7Amh/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
