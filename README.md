@@ -3,6 +3,7 @@
 
 This is the ReadMe file generator link: https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
+![banner](https://github.com/HunterMahmud/HunterMahmud/blob/main/banner.png)
 <h1 align="center">As Salamu Alaikum 👋, I'm Hasan Al Mahmud</h1>
 <h3 align="center"> <em>I am passionate about tackling computer problems and finding innovative solutions.</em></h3>
 <img align="right" alt="Coding" width="400" src= "https://github.com/HunterMahmud/HunterMahmud/blob/main/programmer.gif">
