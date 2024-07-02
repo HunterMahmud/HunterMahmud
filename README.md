@@ -15,7 +15,7 @@ This is the ReadMe file generator link: https://rahuldkjain.github.io/gh-profile
 
 <p align="left"> <a href="https://twitter.com/mahmudal29815" target="blank"><img src="https://img.shields.io/twitter/follow/mahmudal29815?logo=twitter&style=for-the-badge" alt="mahmudal29815" /></a> </p>
 -->
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **NextJS & MySQL DataBase**
 
 - 💬 Ask me about **C, C++, JavaScript, ReactJS**
 
@@ -25,13 +25,13 @@ This is the ReadMe file generator link: https://rahuldkjain.github.io/gh-profile
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mahmudal29815" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahmudal29815" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hasan-al-mahmud-807882270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasan-al-mahmud-807882270" height="30" width="40" /></a>
-<a href="https://fb.com/hasan.almahmud.101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasan.almahmud.101" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/huntermahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="huntermahmud" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/huntermahmud" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="huntermahmud" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/huntermahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="huntermahmud" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/huntermahmud313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="huntermahmud313" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/huntermahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="huntermahmud" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/huntermahmud/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasan-al-mahmud-807882270" height="30" width="40" /></a>
+<a href="https://fb.com/hasan.almahmud.101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasan.almahmud.101" height="30" width="40" /></a>
+<a href="https://twitter.com/mahmudal29815" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahmudal29815" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -42,3 +42,8 @@ This is the ReadMe file generator link: https://rahuldkjain.github.io/gh-profile
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huntermahmud&show_icons=true&locale=en" alt="huntermahmud" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huntermahmud&" alt="huntermahmud" /></p>
+
+-------------------------------------------------
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=huntermahmud&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
