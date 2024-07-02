@@ -3,9 +3,11 @@
 
 This is the ReadMe file generator link: https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
+
 ![banner](https://github.com/HunterMahmud/HunterMahmud/blob/main/banner.png)
+
 <h1 align="center">As Salamu Alaikum 👋, I'm Hasan Al Mahmud</h1>
-<h3 align="center"> <em>I am passionate about tackling computer problems and finding innovative solutions.</em></h3>
+<h3 align="center">I am passionate about problem solving and web development.</h3>
 <img align="right" alt="Coding" width="400" src= "https://github.com/HunterMahmud/HunterMahmud/blob/main/programmer.gif">
 
 <!--
@@ -15,6 +17,7 @@ This is the ReadMe file generator link: https://rahuldkjain.github.io/gh-profile
 
 <p align="left"> <a href="https://twitter.com/mahmudal29815" target="blank"><img src="https://img.shields.io/twitter/follow/mahmudal29815?logo=twitter&style=for-the-badge" alt="mahmudal29815" /></a> </p>
 -->
+
 - 🌱 I’m currently learning **NextJS & MySQL DataBase**
 
 - 💬 Ask me about **C, C++, JavaScript, ReactJS**
@@ -22,6 +25,14 @@ This is the ReadMe file generator link: https://rahuldkjain.github.io/gh-profile
 - 📫 How to reach me **mahmudthedatahunter@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1zji1Fnlz_1BCzLPx5PEl7QzhIiq_7Amh/view?usp=drive_link)
+
+<!-- - 🔭 I’m currently working on [Project](https://github.com/hasan/project)
+
+- 👯 I’m looking to collaborate on [project](https://github.com/hasan/project)
+
+- 🤝 I’m looking for help with [project](https://github.com/hasan/project)
+
+- 👨‍💻 All of my projects are available at [https://huntermahmud.github.io/portfolio/](https://huntermahmud.github.io/portfolio/) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,7 +54,8 @@ This is the ReadMe file generator link: https://rahuldkjain.github.io/gh-profile
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huntermahmud&" alt="huntermahmud" /></p>
 
--------------------------------------------------
+---
+
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=huntermahmud&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
