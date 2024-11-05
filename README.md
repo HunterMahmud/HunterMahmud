@@ -37,7 +37,7 @@ Happy coding! 🚀
 
 - 📫 How to reach me **mahmudthedatahunter@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1zji1Fnlz_1BCzLPx5PEl7QzhIiq_7Amh/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1UV4bCr2outF20x766nFkd2yf_G4Hp76F/view?usp=sharing)
 
 <!-- - 🔭 I’m currently working on [Project](https://github.com/hasan/project)
 
