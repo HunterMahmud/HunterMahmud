@@ -54,37 +54,36 @@ Happy coding! 🚀
 </br>
 </br>
 
-
 <h3 align="center">🤝 Connect with me:</h3>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/huntermahmud/" target="blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="hasan-al-mahmud-807882270" height="20" />
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="hasan-al-mahmud-807882270" height="25" />
 </a> &nbsp;
  
 <a href="https://www.leetcode.com/huntermahmud" target="blank">
-<img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="huntermahmud" height="20" />
+<img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="huntermahmud" height="25" />
 </a> &nbsp;
   
 <a href="https://www.codechef.com/users/huntermahmud" target="blank">
-<img align="center" src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="huntermahmud" height="20" />
+<img align="center" src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="huntermahmud" height="25" />
 </a> &nbsp;
   
 <a href="https://www.hackerrank.com/huntermahmud" target="blank">
-<img align="center" src="https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white" alt="huntermahmud" height="20" />
+<img align="center" src="https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white" alt="huntermahmud" height="25" />
 </a> &nbsp;
   
 <a href="https://codeforces.com/profile/huntermahmud313" target="blank">
-<img align="center" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="huntermahmud313" height="20" />
+<img align="center" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="huntermahmud313" height="25" />
 </a> &nbsp;
   
 <a href="https://fb.com/hasan.almahmud.101" target="blank">
-<img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="hasan.almahmud.101" height="20" />
+<img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="hasan.almahmud.101" height="25" />
 </a> &nbsp;
   
 <a href="https://twitter.com/mahmudal29815" target="blank">
-<img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="mahmudal29815" height="20" />
+<img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="mahmudal29815" height="25" />
 </a> &nbsp;
 
 </div>
@@ -97,21 +96,38 @@ Happy coding! 🚀
 
 ### 🛠️ **Tools and Technologies**
 
-
-
 #### **Frontend**
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) &nbsp; ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) &nbsp; ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) &nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) &nbsp; ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) &nbsp; ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="25" /> &nbsp; 
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="25" /> &nbsp; 
+<img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" height="25" /> &nbsp; 
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="25" /> &nbsp; 
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" height="25" /> &nbsp; 
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" height="25" />
 
 #### **Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) &nbsp; ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) &nbsp; ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" height="25" /> &nbsp; 
+<img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" height="25" /> &nbsp; 
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="25" />
 
 #### **Languages and Tools**
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black) &nbsp; ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) &nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) &nbsp; ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) &nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) &nbsp; ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat&logo=axios&logoColor=white) &nbsp; ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat&logo=react-query&logoColor=white) &nbsp; ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white) &nbsp; ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) &nbsp; ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) &nbsp; ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) &nbsp; ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black" height="25" /> &nbsp; 
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" height="25" /> &nbsp; 
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="25" /> &nbsp; 
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" height="25" /> &nbsp; 
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" height="25" /> &nbsp; 
+<img src="https://img.shields.io/badge/-Axios-5A29E4?style=flat&logo=axios&logoColor=white" height="25" /> &nbsp; 
+<img src="https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat&logo=react-query&logoColor=white" height="25" /> &nbsp; 
+<img src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" height="25" /> &nbsp; 
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" height="25" /> &nbsp; 
+<img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" height="25" /> &nbsp; 
+<img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" height="25" /> &nbsp; 
+<img src="https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat&logo=reacthookform&logoColor=white" height="25" />
 
 #### **Soft Skills**
 🤝 Teamwork &nbsp; &nbsp; 👂 Good Listener &nbsp; &nbsp; 💪 Hardworking
 
 </div>
+
 
 <!--
  
