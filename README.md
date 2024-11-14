@@ -76,15 +76,12 @@ Happy coding! 🚀
 </div>
 
  <br>
- <h3 align="left">Other Stats:</h3>
+ <h3 align="center">Other Stats:</h3>
 
-<p align="left">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huntermahmud&show_icons=true&locale=en&layout=compact" alt="huntermahmud" />
-</p>
-
-<p align="left">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=huntermahmud&show_icons=true&locale=en" alt="huntermahmud" />
-</p>
+<div align="center">
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=huntermahmud&show_icons=true&locale=en&layout=compact" alt="huntermahmud" />
+ <img  src="https://github-readme-stats.vercel.app/api?username=huntermahmud&show_icons=true&locale=en" alt="huntermahmud" />
+</div>
 
 
 
