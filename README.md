@@ -56,7 +56,7 @@ Happy coding! 🚀
 
 <h3 align="center">🤝 Connect with me:</h3>
 
-<div align="center">
+<div align="left">
 
 <a href="https://www.linkedin.com/in/huntermahmud/" target="blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="hasan-al-mahmud-807882270" height="25" />
@@ -96,6 +96,8 @@ Happy coding! 🚀
 
 ### 🛠️ **Tools and Technologies**
 
+</div>
+
 #### **Frontend**
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="25" /> &nbsp; 
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="25" /> &nbsp; 
@@ -126,7 +128,7 @@ Happy coding! 🚀
 #### **Soft Skills**
 🤝 Teamwork &nbsp; &nbsp; 👂 Good Listener &nbsp; &nbsp; 💪 Hardworking
 
-</div>
+
 
 
 <!--
