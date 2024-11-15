@@ -32,6 +32,7 @@ Happy coding! 🚀
 -->
 <br>
 <br>
+
 - 🌱 I’m currently learning **NextJS & TypeScript**
 
 - 💬 Ask me about **C, C++, JavaScript, ReactJS**
