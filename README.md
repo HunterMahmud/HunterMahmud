@@ -29,7 +29,10 @@ Happy coding! 🚀
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huntermahmud" alt="huntermahmud" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mahmudal29815" target="blank"><img src="https://img.shields.io/twitter/follow/mahmudal29815?logo=twitter&style=for-the-badge" alt="mahmudal29815" /></a> </p>
+
 -->
+
+
 <br>
 <br>
 
@@ -49,7 +52,7 @@ Happy coding! 🚀
 - 🤝 I’m looking for help with [project](https://github.com/hasan/project)
 -->
 
-- 👨‍💻 All of my projects are available at [Portfolio/](https://hasanalmahmud.netlify.app/) 
+- 👨‍💻 All of my projects are available at [Portfolio](https://hasanalmahmud.netlify.app/) 
 
 </br>
 </br>
