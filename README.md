@@ -2,8 +2,9 @@
 This is the ReadMe file generator link: https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
 
-
+<!--
 <p align="right"> <img src="https://visitcount.itsvg.in/api?id=huntermahmud&icon=0&color=12https://visitcount.itsvg.in" alt="huntermahmud" /> </p>
+-->
 
 ![banner](https://github.com/HunterMahmud/HunterMahmud/blob/main/banner.png)
 <h1 align="center">As Salamu Alaikum 👋, I'm Hasan Al Mahmud</h1>
