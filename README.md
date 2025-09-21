@@ -38,7 +38,7 @@ Happy coding! 🚀
 
 - 🌱 I’m currently learning **NextJS & TypeScript**
 
-- 💬 Ask me about **C, C++, JavaScript, ReactJS**
+- 💬 Ask me about **C, C++, JavaScript, NestJS, GoLang**
 
 - 📫 How to reach me **mahmudthedatahunter@gmail.com**
 
